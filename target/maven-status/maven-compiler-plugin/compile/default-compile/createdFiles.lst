@@ -1,0 +1,11 @@
+com\sa\service\ICityService.class
+com\sa\repository\CityRepository.class
+com\sa\GreetingController.class
+com\sa\service\CityService.class
+com\sa\model\City.class
+com\sa\service\IShoppingListService.class
+com\sa\model\ShoppingList.class
+com\sa\service\ShoppingListService.class
+com\sa\controller\MyController.class
+com\sa\Application.class
+com\sa\repository\ShoppingListRepository.class

@@ -1,0 +1,13 @@
+server:
+    port: 8080
+    context-path: /
+spring:
+  datasource:
+    driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    url: jdbc:sqlserver://mssql6.gear.host;databaseName=mynewdb1
+    username: mynewdb1
+    password: secret
+    platform: mssql
+  jpa:
+    show-sql: true
+
